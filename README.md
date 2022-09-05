@@ -33,6 +33,7 @@
 </p>
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mehmetbuber38&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mehmetbuber38&amp;show_icons=true&theme=radical" alt="GitHub Stats"></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetbuber38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
