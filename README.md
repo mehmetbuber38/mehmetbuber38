@@ -31,3 +31,8 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="csharp" width="40" height="40"/> 
 	</a> 
 </p>
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mehmetbuber38&amp;show_icons=true" alt="GitHub Stats"></p>
+
+
